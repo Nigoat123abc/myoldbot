@@ -1,4 +1,4 @@
-# Discord Bot - Hidden Talents Bot
+# Discord Bot 
 
 A comprehensive Discord bot built with discord.py featuring ticket system, marketplace, moderation, and anti-raid security.
 
@@ -145,3 +145,4 @@ This project is open source and available for modification.
 For issues or questions, check the code comments or refer to:
 - [discord.py Documentation](https://discordpy.readthedocs.io/)
 - [Discord Developer Portal](https://discord.com/developers/docs)
+
